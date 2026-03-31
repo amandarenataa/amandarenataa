@@ -20,12 +20,6 @@ Currently in my 6th semester of Information Systems, I am deep-diving into the l
 
 ## 🛠️ Tech Stack by Sector
 
-### 💻 **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Flexbox%20%2B%20Grid-blueviolet?style=for-the-badge)
-
 ### 📊 **Data Science & Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -44,6 +38,12 @@ Currently in my 6th semester of Information Systems, I am deep-diving into the l
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+### 💻 **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Flexbox%20%2B%20Grid-blueviolet?style=for-the-badge)
 
 ### ☁️ **Cloud & Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
