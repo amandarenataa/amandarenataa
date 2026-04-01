@@ -62,14 +62,10 @@ Currently in my 6th semester of Information Systems, I am deep-diving into the l
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=amandarenataa-2005&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=amandarenataa-2005&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amandarenataa-2005&layout=compact&theme=radical)
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=amandarenataa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" width="49%" /> -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandarenataa&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="49%" /> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandarenataa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" width="49%" /> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amandarenataa&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" alt="Contribution Graph" width="49%" />
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=amandarenataa&show_icons=true&theme=radical) -->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=amandarenataa&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amandarenataa&layout=compact&theme=radical) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amandarenataa&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" alt="Contribution Graph" width="49%" /> 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandarenataa&theme=radical)
 
